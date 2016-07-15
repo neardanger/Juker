@@ -1,0 +1,1 @@
+This is Juker, an application made using spotify API hehe xd
