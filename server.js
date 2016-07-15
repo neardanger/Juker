@@ -8,7 +8,10 @@ var express = require('express'),
  	session = require('express-session'),
  	passport = require('passport'),
  	bcrypt = require('bcrypt-nodejs'),
- 	flash = require('connect-flash')
+ 	flash = require('connect-flash'),
+ 	http = require('http'),
+ 	request = require('request')
+
 
 
 var port = process.env.PORT || 8000
