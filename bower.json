@@ -1,0 +1,24 @@
+{
+  "name": "Files",
+  "description": "These are the files that are awesome",
+  "main": "server.js",
+  "authors": [
+    "Steven Magadan"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "music",
+    "player",
+    "spotify",
+    "jukebox",
+    "awesome",
+    "nostalgic",
+    "xD",
+    "hehe",
+    "xd"
+  ],
+  "homepage": "neardanger.github.io",
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}

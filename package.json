@@ -1,0 +1,36 @@
+{
+  "name": "juker",
+  "version": "1.0.0",
+  "description": "This is just a spotify clone -_-",
+  "main": "server.js",
+  "scripts": {
+    "test": "Dank memes!",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "music",
+    "player",
+    "spotify",
+    "jukebox",
+    "awesome",
+    "nostalgic",
+    "xD",
+    "hehe",
+    "xd"
+  ],
+  "author": "Steven Magadan",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "body-parser": "^1.15.2",
+    "connect-flash": "^0.1.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "express-ejs-layouts": "^2.1.0",
+    "express-session": "^1.14.0",
+    "mongoose": "^4.5.4",
+    "morgan": "^1.7.0",
+    "passport": "^0.3.2",
+    "path": "^0.12.7"
+  }
+}
