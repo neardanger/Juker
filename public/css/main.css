@@ -1,38 +1,6 @@
 /*+++++++++++++++++++++
 =====================================
- Template Name : Himu
- Author Name : Mostafizur Rahman
- Author URI : http://mostafiz.me/
- Template URI :http://mostafiz.me/demo/himu/
- Version : 1.1
-===============================
-+++++++++++++++++++*/
-
-
-
-
-
-/*
-====================================
-------------------------------------
-	1. Typography
-	2. Header
-	3. Main Slider
-	4. About Us
-	5. Service
-	6. Our Team
-	7. Portfolio
-	8. Clients
-	9. Our Blog
-	10. Contact
-	11. Footerntact
-	12. Carousel Effect
-	13. Isotope
-	14. Portfolio Hover effect
--------------------------------------
-=====================================
-*/
-
+ 
 
 /*====================
 ======Typography=====
@@ -1180,7 +1148,6 @@ h1, h2, h3, h4, h5, h6 {
 	z-index:1;
 	left:0;
 	bottom:0;
-	background-image:url(../images/pattern.png);
 	background-repeat:repeat;
 	opacity:0.2;
 }
