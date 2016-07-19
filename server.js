@@ -11,6 +11,7 @@ var express = require('express'),
  	flash = require('connect-flash'),
  	http = require('http'),
  	request = require('request')
+ 	cors = require('cors')
 
 
 
