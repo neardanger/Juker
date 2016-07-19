@@ -406,17 +406,17 @@ h1, h2, h3, h4, h5, h6 {
 
 
 /*=======================
-====== About Us CSS =====
+====== About Me CSS =====
 =========================*/
 
 
-#about-us {
+#about-me {
 	background:#F6F6F6;
 	overflow: hidden;
 	padding: 85px 0;
 }
 
-#about-us h2 {
+#about-me h2 {
 	margin-bottom:35px
 }
 
@@ -448,29 +448,29 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-#about-us h4 {
+#about-me h4 {
 	color: #909090;
 	margin-bottom: 50px;
 	margin-top: -5px;
 	text-transform: capitalize;
 }
 
-#about-us p {
+#about-me p {
 	font-weight:300;
 	font-size:15px
 }
 
-.about-us .col-sm-6 {
+.about-me .col-sm-6 {
 	margin-top:50px
 }
 
-.about-us h3 {
+.about-me h3 {
 	font-size: 20px;
 	margin-bottom: 18px;
 	text-transform: uppercase;
 }
 
-.about-us .tab-content {
+.about-me .tab-content {
 	background:#FFFFFF;
 	border-bottom: 1px solid #DDDDDD;
 	border-left: 1px solid #DDDDDD;
@@ -478,20 +478,20 @@ h1, h2, h3, h4, h5, h6 {
 	padding: 25px;
 }
 
-.about-us .nav-tabs li a {
+.about-me .nav-tabs li a {
 	border-top:2px solid #f6f6f6;
 	color:#fc7700
 }
 
-.about-us .nav-tabs li.active a, 
-.about-us .nav-tabs li.active a:hover, 
-.about-us .nav-tabs li.active a:focus {
+.about-me .nav-tabs li.active a, 
+.about-me .nav-tabs li.active a:hover, 
+.about-me .nav-tabs li.active a:focus {
 	border-radius: 0;
 	border-top: 2px solid #fc7700;
 	color: #333333;
 }
 
-.about-us .tab-content 
+.about-me .tab-content 
 .pull-left.media-object {
 	background-color: #F6F6F6;
 	margin-right: 20px;
